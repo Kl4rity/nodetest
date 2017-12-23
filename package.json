@@ -1,0 +1,22 @@
+{
+  "name": "firstnodeapp",
+  "version": "1.0.0",
+  "description": "First Node.js app for me to play around with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kl4rity/nodetest.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Kl4rity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kl4rity/nodetest/issues"
+  },
+  "homepage": "https://github.com/Kl4rity/nodetest#readme"
+}
