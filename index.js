@@ -2,7 +2,7 @@ var http = require('http');
 var url = require('url');
 var show = require('./show');
 
-var port = 78800;
+var port = 80;
 
 http.createServer(onRequest).listen(port);
 console.log("Server has started on port" + port);
